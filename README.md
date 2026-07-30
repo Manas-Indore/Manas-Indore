@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Manas 👋
 
-<!--
-**Manas-Indore/Manas-Indore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ VIT Chennai
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Learning Java Full Stack Development
+- 🤖 Building AI-powered applications
+- 📚 Solving DSA in Java
+- 🎯 Preparing for Software Engineering internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Java
+- Spring Boot
+- React
+- JavaScript
+- Python
+- MySQL
+- Git
+
+## Current Projects
+
+- 🚀 InterviewIQ
+- 🌐 Java Full Stack Project
+
+## Competitive Programming
+
+- LeetCode
+- Codeforces
+
+## Connect With Me
+
+- LinkedIn
+- Email
